@@ -9,3 +9,5 @@ git clone https://github.com/Coolis1362/TS-PYTHON-LANGUAGE-Interpiler.git
 ```
 
 If git Is not Installed GET IT [HERE](https://git-scm.com/downloads/win)
+
+TOO LAZY TO MAKE A FULL README.md
